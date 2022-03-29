@@ -15,6 +15,10 @@ This Week lab will focus on getting you acquainted with S3 using the aws cli
 
 
 
+
+
+
+
 For guide, kindly visit
 
 https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
