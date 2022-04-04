@@ -10,3 +10,9 @@ Step:
 7. Launch an instance into your private subnet
 8. Perform clen up operations. 
 
+
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
+
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
+
+https://docs.aws.amazon.com/vpc/index.html

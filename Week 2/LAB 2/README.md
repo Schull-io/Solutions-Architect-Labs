@@ -7,3 +7,9 @@ Task: Create a nondefault VPC using AWS CLI
 5. Create a security group and add a SSH access from anywhere
 6. Lauch an instance into your subnet 
 7. Clean Up
+
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
+
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
+
+https://docs.aws.amazon.com/vpc/index.html
