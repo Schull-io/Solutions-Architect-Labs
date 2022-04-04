@@ -14,15 +14,6 @@ This Week lab will focus on getting you acquainted with S3 using the aws cli
 
 
 
-# Task 2: Create S3 bucket with bucket policies and life cycle maangement
-
-1. Launch AWS Console
-2. Create a S3 bucket with enforced ownership
-3. Create a single lifecycle policy
-4. Create a single bucket policy
-5. Delete all policies
-6. Delete S3 bucket
-
 
 
 
