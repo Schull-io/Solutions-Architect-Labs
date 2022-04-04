@@ -14,6 +14,11 @@ This Week lab will focus on getting you acquainted with S3 using the aws cli
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 9cec8cf0abe0904cdae2e2ea846268943cb04afb
 
 
 
