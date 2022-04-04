@@ -1,4 +1,4 @@
-# Task 2: Create S3 bucket with bucket policies and life cycle management
+# Task 2: Create Amazon S3 bucket with bucket policies and life cycle management
 
 1. Launch AWS Console
 2. Create a S3 bucket with enforced ownership
