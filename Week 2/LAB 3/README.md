@@ -8,7 +8,7 @@ Step:
 5. Modify the IPv6 addressing behavior of the subnets
 6. Lauch an instance into your public subnet
 7. Launch an instance into your private subnet
-8. Perform clen up operations. 
+8. Perform clean up operations. 
 
 
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
