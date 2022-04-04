@@ -1,4 +1,4 @@
-This Week lab will focus on getting you acquainted with S3 using the aws cli
+This Week lab will focus on getting you acquainted with Amazon S3 using the aws cli
 
 # Task 1: Create a S3 bucket using AWS CLI
 
