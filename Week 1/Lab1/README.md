@@ -22,3 +22,7 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+I am having issue loading my cloudshell on aws.
+That is why i couldn't attempt the lab work for week one.
