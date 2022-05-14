@@ -1,4 +1,4 @@
-This Week lab will focus on getting you acquainted with S3 using the aws cli
+This Week lab will focus on getting you acquainted with Amazon S3 using the aws cli
 
 # Task 1: Create a S3 bucket using AWS CLI
 
@@ -10,10 +10,6 @@ This Week lab will focus on getting you acquainted with S3 using the aws cli
 6. Download Object from your S3 bucket
 7. Delete object in your s3 bucket
 8. Delete your S3 bucket
-
-
-
-
 
 
 
