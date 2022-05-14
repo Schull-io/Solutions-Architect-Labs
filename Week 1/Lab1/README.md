@@ -22,3 +22,12 @@ https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-services-s3-commands.html
+
+
+
+
+I was having issue with my cloudshell, the environment is not loading.
+
+that is why i couldn't use the cloudshell to craete a S3 bucket.
+
+thanks.
