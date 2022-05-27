@@ -9,6 +9,27 @@
 
 
 
+# ANSWRES TO WEEK 1 TASK 2 LAB
+# (TASK: Create S3 bucket with bucket policies and life cycle management)
+
+1. LAUNCHING AWS CONSOLE
+I launched my AWS CLOUDSHELL from my AWS MANAGEMENT CONSOLE by clicking pn the AWS CLOUDSHELL icon at the top right corner of the console, which opened up the command line interface for me to type my commands and continue interacting with aws.
+
+2. Create a S3 bucket with enforced ownership.
+To create a bucket with owner enforced setting I used the following command:
+
+aws s3api create-bucket \
+    --bucket enforced-demo \
+    --region us-east-1 \
+    --object-ownership BucketOwnerEnforced
+
+3.  Create a single lifecycle policy
+To create a single lyfecycle policy, I used the following command:
+
+aws s3api put-bucket-lifecycle
+ --bucket enforced-demo
+  --lifecycle-configuration file://lifecycle.json
+
 For guide, kindly visit
 
 https://docs.aws.amazon.com/cli/latest/reference/s3api/create-bucket.html
