@@ -28,6 +28,28 @@ This Week lab will focus on getting you acquainted with Amazon S3 using the aws 
                 "DisplayName": "seyeonigbinde87",
                 "ID": "017e4966f32aad4346cbc465995222dd6e2c82fef495042f72fe474d10f2b8cd"
             }
+        },
+        {
+            "Key": "docs/cacer-icon.png",
+            "LastModified": "2022-05-27T01:24:08+00:00",
+            "ETag": "\"aed7eff789d055e6806f92bdb6b22786\"",
+            "Size": 120508,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "seyeonigbinde87",
+                "ID": "017e4966f32aad4346cbc465995222dd6e2c82fef495042f72fe474d10f2b8cd"
+            }
+        },
+        {
+            "Key": "docs/cacer-icon2.png",
+            "LastModified": "2022-05-27T01:24:07+00:00",
+            "ETag": "\"5e6494e0f46b1dfae0fb4e644a4f3d63\"",
+            "Size": 126189,
+            "StorageClass": "STANDARD",
+            "Owner": {
+                "DisplayName": "seyeonigbinde87",
+                "ID": "017e4966f32aad4346cbc465995222dd6e2c82fef495042f72fe474d10f2b8cd"
+            }
         }
     ]
 }
